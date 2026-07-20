@@ -10,7 +10,7 @@ This project demonstrates one of the fundamental techniques in molecular biology
 
 ### 🔍 Restriction Site Detection
 
-![img alt]()
+![img alt](https://github.com/harshitmishra0310/restriction_site/blob/a5b6bd5dee7eb91cac21fe60a36437243cc316af/Working.png)
 
 ---
 
